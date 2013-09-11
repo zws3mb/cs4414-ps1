@@ -1,5 +1,6 @@
 use std::{os, float};
-
+#I based this off of the solutions on piazza--I could not figure out
+#how to cycle through the array until then
 fn main() {
 let mut sum = 0.0;
 let mut n =0;
